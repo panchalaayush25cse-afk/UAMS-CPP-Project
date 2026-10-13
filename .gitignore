@@ -1,0 +1,21 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Binary data files generated at runtime
+*.dat
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
